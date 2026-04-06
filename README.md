@@ -11,5 +11,5 @@ Create an entire ETL process in a database and a power BI dashboard to utilize t
 3)Identify a Method to predict Future churners
 
 
-author
+Author
 Bhavna 
