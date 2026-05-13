@@ -11,9 +11,9 @@ Create an entire ETL process in a database and a power BI dashboard to utilize t
    c.payment & amp; account info
 
    d.Services
+
    
 2)Study churner profile and Identify Areas for implementing Marketing Campaigns
-
 
 3)Identify a Method to predict Future churners
 
